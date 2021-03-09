@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Data Structures</string>
+    <string name="enter_Value">Enter Value</string>
+    <string name="push_btn">Push</string>
+    <string name="pop_btn">Pop</string>
+    <string name="clear_btn">Clear Stack</string>
+    <string name="title_view">Stack ADT</string>
+    <string name="top_view">Top =</string>
+    <string name="size_view">Size =</string>
+    <string name="isEmtpy_view">isEmpty =</string>
+    <string name="isEmpty_default">true</string>
+    <string name="size_default">0</string>
+</resources>
